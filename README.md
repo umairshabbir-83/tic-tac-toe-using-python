@@ -19,3 +19,8 @@ You can play ▶ this game with the use of __NUMERIC PAD__. The game field mappi
 ----------------+---------------+---------------
 	1	|	2	|	3
 ```
+
+The entered key will mark your move ("X" or "O") at corresponding position.
+
+## Game OUTPUT Screen:
+![TikTacToe](https://user-images.githubusercontent.com/93377842/142961898-87b23e29-5e26-432e-8175-f1aca6754975.png)
