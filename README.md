@@ -1,8 +1,8 @@
 # tic-tac-toe-using-python
-This repository contains **Tic-tac-toe** game implementation files in __Python__.
+This repository contains `Tic-Tac-Toe` game implementation files in `Python`.
 
 ## Instructions:
-You can play ▶ this game with the use of __NUMERIC PAD__. The game field mapping with respect to **NUMERIC PAD** is shown below.
+You can play ▶ this game with the use of `NUMERIC PAD`. The game field mapping with respect to `NUMERIC PAD` is shown below.
 
 ```
 Game Field
